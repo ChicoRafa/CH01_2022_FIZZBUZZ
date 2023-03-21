@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CH01_2022_FIZZBUZZ</string>
+    <string name="str_Launch">Lanzar FizzBuzz</string>
+    <string name="str_helloText">Bienvenido al challenge nº1</string>
+    <string name="str_fizzbuzz">FizzBuzz</string>
+    <string name="str_fizz">Fizz</string>
+    <string name="str_buzz">Buzz</string>
+</resources>
